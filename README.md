@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hi there, Tanish here 👋
+Welcome to my small world of projects, which I make and improve from time to time!
 
+## Interests
+<ul>
+  <li>Linux</li>
+  <li>Game Development</li>
+  <li>Web Development</li>
+</ul>
+
+## Hobbies
+<ul>
+  <li>Speedcubing</li>
+  <li>Indian Bamboo flute</li>
+</ul>
 <!--
 **tanishbhongade/tanishbhongade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
