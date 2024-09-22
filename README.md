@@ -6,10 +6,12 @@ Welcome to my small world of projects, which I make and improve from time to tim
   <li>Linux</li>
   <li>Game Development</li>
   <li>Web Development</li>
+  <li>Competitive Programming</li>
 </ul>
 
 ## Hobbies
 <ul>
+  <li>Reading books</li>
   <li>Speedcubing</li>
   <li>Indian Bamboo flute</li>
 </ul>
