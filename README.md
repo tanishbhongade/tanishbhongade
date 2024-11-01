@@ -1,6 +1,7 @@
 ## Hi there, Tanish here 👋
 Welcome to my small world of projects, which I make and improve from time to time!
 
+<!--
 ## Interests
 <ul>
   <li>Linux</li>
@@ -15,6 +16,10 @@ Welcome to my small world of projects, which I make and improve from time to tim
   <li>Speedcubing</li>
   <li>Indian Bamboo flute</li>
 </ul>
+-->
+
+[![Badges!](https://holopin.me/tanishbhongade)](https://holopin.io/@tanishbhongade)
+
 <!--
 **tanishbhongade/tanishbhongade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
