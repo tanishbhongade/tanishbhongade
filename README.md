@@ -19,9 +19,12 @@ Welcome to my small world of projects, which I make and improve from time to tim
 -->
 
 <p align="center">
-  ![LeetCode Stats](https://leetcode.card.workers.dev/tanishbhongade?theme=dark&font=baloo&extension=null)
-  [![Badges!](https://holopin.me/tanishbhongade)](https://holopin.io/@tanishbhongade)
+  <img src="https://leetcode.card.workers.dev/tanishbhongade?theme=dark&font=baloo&extension=null" alt="LeetCode Stats" /><br>
+  <a href="https://holopin.io/@tanishbhongade">
+    <img src="https://holopin.me/tanishbhongade" alt="Holopin Badges" />
+  </a>
 </p>
+
 
 <!--
 **tanishbhongade/tanishbhongade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
